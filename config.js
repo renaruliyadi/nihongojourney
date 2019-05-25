@@ -23,9 +23,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Rere',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'This is not an easy journey, you will be bored, facing hardship, and tired. Do not stop.',
     contacts: {
       email: '#',
       telegram: '#',
